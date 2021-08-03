@@ -1,0 +1,24 @@
+body {
+  padding: 50px;
+  font: 20px "Lucida Grande", Helvetica, Arial, sans-serif;
+ 
+  
+}
+
+
+/*home page background image*/
+#background-image{background-image: url("../images/homepagebackground.jpg"); background-position:"center";
+  background-repeat: "no repeat" ; background-size: cover;}
+/*content for home page*/
+#content{background-color: rgba(0,0,0,0.3); max-width:auto ; padding:100px 20px;margin-top : 20px;color: black;
+font:normal italic 30px Serif}
+/* about me page , image*/
+#image{float:left; padding : 0px 20px 20px 0px; border-radius: 50%;}
+/* all the page content format*/
+#intro{font:normal italic 22px serif}
+/*about me page division for skills and personal development*/
+.list-box{width:100% ; overflow:hidden;}
+.box { width:50% ; float:left;   }
+/*images on project page*/
+#project-image{float: left;padding:0px 30px 30px 0px}
+
